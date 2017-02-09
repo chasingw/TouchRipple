@@ -23,10 +23,9 @@
     <com.robopano.touchripple.RippleButton
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:background="#ffff00"
+        android:background="#50ffffff"
         android:textColor="#000"
         android:text="Ripple Button"
         android:gravity="center"
-
     />
 </LinearLayout>

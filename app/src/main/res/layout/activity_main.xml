@@ -20,4 +20,13 @@
                android:layout_height="100dp"
     android:src="@drawable/ic_demo_shape"
                android:id="@+id/imageView"/>
+    <com.robopano.touchripple.RippleButton
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#ffff00"
+        android:textColor="#000"
+        android:text="Ripple Button"
+        android:gravity="center"
+
+    />
 </LinearLayout>

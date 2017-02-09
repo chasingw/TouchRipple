@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="1">
+
+        <bitmap android:src="@drawable/icon_bat_0"/>
+    </item>
+    <item android:maxLevel="2">
+        <bitmap android:src="@drawable/icon_bat_20"/>
+    </item>
+    <item android:maxLevel="3">
+        <bitmap android:src="@drawable/icon_bat_40"/>
+    </item>
+    <item android:maxLevel="4">
+        <bitmap android:src="@drawable/icon_bat_60"/>
+    </item>
+    <item android:maxLevel="5">
+        <bitmap android:src="@drawable/icon_bat_80"/>
+    </item>
+    <item android:maxLevel="6">
+        <bitmap android:src="@drawable/icon_bat_100"/>
+    </item>
+    <item android:maxLevel="7">
+        <bitmap android:src="@drawable/icon_bat_charge"/>
+    </item>
+</level-list>
